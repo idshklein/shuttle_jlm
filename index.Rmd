@@ -1,0 +1,24 @@
+---
+title: "שאטלים שכונתיים - הדגמה"
+author: "Ido Klein"
+date: "16/01/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## דוגמא - גילה
+
+![](paste-7AEF0BAC.png)
+
+![](paste-95B0DF51.png)
+
+סך יח"ד בפוליגון: 8432
+
+סך יח"ד בתוך 200 מטרים מתחנה: 5162
+
+3270 יח"ד משורתים גרוע על ידי תחצ
+
+<link href="my-style.css" rel="stylesheet">
