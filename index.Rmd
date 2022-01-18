@@ -19,6 +19,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 סך יח"ד בתוך 200 מטרים מתחנה: 5162
 
-3270 יח"ד משורתים גרוע על ידי תחצ
+3270 יח"ד משורתים גרוע על ידי תחצ  
 
 <link href="my-style.css" rel="stylesheet">
